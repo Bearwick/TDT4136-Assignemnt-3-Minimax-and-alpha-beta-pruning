@@ -1,4 +1,4 @@
-# TDT4136-Assignemnt-3-Minimax-and-alpha-beta-pruning
+# TDT4136-Assignment-3-Minimax-and-alpha-beta-pruning
 Implementation of the Minimax algorithm for adversarial search
 ## Commands
 **Run program:** `cd` into multiagent and run `python pacman.py`<br />
