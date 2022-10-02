@@ -5,4 +5,4 @@ Implementation of the Minimax algorithm for adversarial search
 **Run program:** `python pacman.py`<br />
 **Run program with reflex agent:** `python pacman.py -p ReflexAgent`<br />
 **Run tests:**  `python autograder.py -q q2` or `python autograder.py -q q3`<br />
-**Run tests without graphics:** `python autograder.py -q q2` or `python autograder.py -q q2 --no-graphics`<br />
+**Run tests without graphics:** `python autograder.py -q q2 --no-graphics`<br />
